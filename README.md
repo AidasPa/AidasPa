@@ -14,7 +14,10 @@
 [![][node]](https://nodejs.org/en/)
 [![][php]](https://www.php.net/)
 [![][laravel]](https://laravel.com/)
+[![][elixir]](https://elixir-lang.org/)
+[![][phoenix]](https://www.phoenixframework.org/)
 [![][psql]](https://www.postgresql.org/)
+[![][docker]](https://www.docker.com/)
 [![][heroku]](https://heroku.com/)
 [![][glab]](https://about.gitlab.com/)
 [![][gh]](https://github.com/)
@@ -23,6 +26,9 @@
 
 ![AidasPa's github stats](https://github-readme-stats.vercel.app/api?username=aidaspa)
 
+[elixir]: https://raw.githubusercontent.com/AidasPa/AidasPa/master/icons/elixir.png
+[phoenix]: https://raw.githubusercontent.com/AidasPa/AidasPa/master/icons/phx.png
+[docker]: https://raw.githubusercontent.com/AidasPa/AidasPa/master/icons/icons8-docker-48.png
 [vscode]: https://raw.githubusercontent.com/AidasPa/AidasPa/master/icons/icons8-visual-studio-code-2019-50.png
 [js]: https://raw.githubusercontent.com/AidasPa/AidasPa/master/icons/icons8-javascript-50.png
 [react]: https://raw.githubusercontent.com/AidasPa/AidasPa/master/icons/icons8-react-native-50.png
