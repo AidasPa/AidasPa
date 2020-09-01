@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Medusa](https://github.com/ProjectMedusa)
 - 🌱 I’m currently learning <img src="https://raw.githubusercontent.com/AidasPa/AidasPa/master/icons/icons8-graphql.svg" width="24"> [GraphQL](https://graphql.org/)
-- 📫 How to reach me: *AidasP#1559# on [Discord](https://discord.com/)
+- 📫 How to reach me: `AidasP#1559` on [Discord](https://discord.com/)
 - ⚡ Fun fact: I 💓 airplanes
 
 ### Tools & Languages
