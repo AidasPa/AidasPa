@@ -14,8 +14,8 @@
 [![][node]](https://nodejs.org/en/)
 [![][php]](https://www.php.net/)
 [![][laravel]](https://laravel.com/)
-<img src="https://raw.githubusercontent.com/AidasPa/AidasPa/master/icons/elixir.png" width="50">
-<img src="https://raw.githubusercontent.com/AidasPa/AidasPa/master/icons/phx.png" width="50">
+[<img src="https://raw.githubusercontent.com/AidasPa/AidasPa/master/icons/elixir.png" width="50">][elixir]
+[<img src="https://raw.githubusercontent.com/AidasPa/AidasPa/master/icons/phx.png" width="50">][phoenix]
 [![][psql]](https://www.postgresql.org/)
 [![][docker]](https://www.docker.com/)
 [![][heroku]](https://heroku.com/)
@@ -26,8 +26,9 @@
 
 ![AidasPa's github stats](https://github-readme-stats.vercel.app/api?username=aidaspa)
 
-[elixir]: https://raw.githubusercontent.com/AidasPa/AidasPa/master/icons/elixir.png
-[phoenix]: https://raw.githubusercontent.com/AidasPa/AidasPa/master/icons/phx.png
+[elixir]: https://elixir-lang.org/
+[phoenix]: https://www.phoenixframework.org/
+
 [docker]: https://raw.githubusercontent.com/AidasPa/AidasPa/master/icons/icons8-docker-48.png
 [vscode]: https://raw.githubusercontent.com/AidasPa/AidasPa/master/icons/icons8-visual-studio-code-2019-50.png
 [js]: https://raw.githubusercontent.com/AidasPa/AidasPa/master/icons/icons8-javascript-50.png
