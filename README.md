@@ -14,8 +14,8 @@
 [![][node]](https://nodejs.org/en/)
 [![][php]](https://www.php.net/)
 [![][laravel]](https://laravel.com/)
-[![][elixir]](https://elixir-lang.org/)
-[![][phoenix]](https://www.phoenixframework.org/)
+<img src="https://raw.githubusercontent.com/AidasPa/AidasPa/master/icons/elixir.png" width="50">
+<img src="https://raw.githubusercontent.com/AidasPa/AidasPa/master/icons/phx.png" width="50">
 [![][psql]](https://www.postgresql.org/)
 [![][docker]](https://www.docker.com/)
 [![][heroku]](https://heroku.com/)
