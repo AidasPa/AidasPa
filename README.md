@@ -24,8 +24,6 @@
 
 ------
 
-![AidasPa's github stats](https://github-readme-stats.vercel.app/api?username=aidaspa)
-
 [elixir]: https://elixir-lang.org/
 [phoenix]: https://www.phoenixframework.org/
 
